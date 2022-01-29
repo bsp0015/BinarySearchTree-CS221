@@ -1,0 +1,13 @@
+The tree is empty
+The item N was added to the tree
+The item F was added to the tree
+The item B was added to the tree
+The item K was added to the tree
+The item D was added to the tree
+The item G was added to the tree
+The item B was added to the tree
+The tree is not empty
+The length of the tree is: 7
+The number of Leaves is: 2
+The number of Single Parent Nodes is: 4
+Error occurred. Command not recognized

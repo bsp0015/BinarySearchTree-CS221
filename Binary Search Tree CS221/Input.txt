@@ -1,0 +1,14 @@
+IsEmpty
+PutItem N
+PutItem F
+PutItem B
+PutItem K
+PutItem D
+PutItem G
+PutItem B
+IsEmpty
+GetLength
+LeafCount
+SingleParentCount
+Error
+Quit
