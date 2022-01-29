@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7077C55527A505BF0072429E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C55427A505BF0072429E /* main.cpp */; };
+		7077C55D27A508A80072429E /* TreeType.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C55B27A508A80072429E /* TreeType.cpp */; };
+		7077C55F27A508E30072429E /* TestDrive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7077C55E27A508E30072429E /* TestDrive.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,9 @@
 
 /* Begin PBXFileReference section */
 		7077C55127A505BF0072429E /* Binary Search Tree CS221 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Binary Search Tree CS221"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7077C55427A505BF0072429E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7077C55B27A508A80072429E /* TreeType.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TreeType.cpp; sourceTree = "<group>"; };
+		7077C55C27A508A80072429E /* TreeType.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TreeType.hpp; sourceTree = "<group>"; };
+		7077C55E27A508E30072429E /* TestDrive.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TestDrive.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +60,9 @@
 		7077C55327A505BF0072429E /* Binary Search Tree CS221 */ = {
 			isa = PBXGroup;
 			children = (
-				7077C55427A505BF0072429E /* main.cpp */,
+				7077C55E27A508E30072429E /* TestDrive.cpp */,
+				7077C55B27A508A80072429E /* TreeType.cpp */,
+				7077C55C27A508A80072429E /* TreeType.hpp */,
 			);
 			path = "Binary Search Tree CS221";
 			sourceTree = "<group>";
@@ -119,7 +124,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7077C55527A505BF0072429E /* main.cpp in Sources */,
+				7077C55F27A508E30072429E /* TestDrive.cpp in Sources */,
+				7077C55D27A508A80072429E /* TreeType.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
