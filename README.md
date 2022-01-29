@@ -1,4 +1,4 @@
-# Binary-Search-Tree-CS221
+# Binary Search Tree CS221
 
 This was an assignment for __CS221 Computer Science II: Data Structures__. It used a short version of a binary search tree. It required a test plan document with abstract data type specs as well.
 
